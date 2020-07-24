@@ -52,7 +52,7 @@ class ViewController: UITableViewController {
         
         filme = Filme(titulo: "Filme 1", descricao: "Descricao 1", imagem: #imageLiteral(resourceName: "filme9"))
         filmes.append(filme)
-        filme = Filme(titulo: "Filme 2", descricao: "Descricao 2", imagem: #imageLiteral(resourceName: "filme10"))
+        filme = Filme(titulo: "Filme 2", descricao: "Descricao 2", imagem: #imageLiteral(resourceName: "filme2"))
         filmes.append(filme)
         filme = Filme(titulo: "Filme 3", descricao: "Descricao 3", imagem: #imageLiteral(resourceName: "filme8"))
         filmes.append(filme)
